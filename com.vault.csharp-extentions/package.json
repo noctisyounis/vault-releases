@@ -1,0 +1,13 @@
+{
+  "name": "com.vault.csharpextensions",
+  "displayName": "C# Extensions",
+  "version": "0.0.1",
+  "unity": "2020.2",
+  "description": "C# extensions for Unity.",
+  "keywords": [
+    "csharp",
+    "extensions"
+  ],
+  "category": "Tools",
+  "type": "tool"
+}
