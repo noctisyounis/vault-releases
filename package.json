@@ -1,12 +1,12 @@
 {
-  "name": "com.vault.csharp-extensions",
-  "displayName": "C# Extensions",
+  "name": "com.vault.symlink-editor",
+  "displayName": "Symlink",
   "version": "0.0.1",
   "unity": "2020.2",
-  "description": "C# extensions for Unity.",
+  "description": "Easy to use symlink integration for unity.",
   "keywords": [
-    "csharp",
-    "extensions"
+    "symlink",
+    "editor"
   ],
   "category": "Tools",
   "type": "tool"
